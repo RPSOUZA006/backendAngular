@@ -1,1 +1,22 @@
-
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "Curso de Angular",
+      "validade": "2022-12-31",
+      "preco": 550.5
+    },
+    {
+      "nome": "Curso de Ionic",
+      "validade": "2022-07-29",
+      "preco": 253.12,
+      "id": 2
+    },
+    {
+      "nome": "Curso de Ionic Avançado",
+      "validade": "2022-07-23",
+      "preco": 300,
+      "id": 3
+    }
+  ]
+}
