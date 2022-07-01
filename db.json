@@ -17,6 +17,12 @@
       "validade": "2022-07-23",
       "preco": 300,
       "id": 3
+    },
+    {
+      "nome": "Curso de Java",
+      "validade": "2022-12-23",
+      "preco": 800,
+      "id": 4
     }
   ]
 }
